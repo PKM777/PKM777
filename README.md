@@ -9,7 +9,7 @@ I am interested in building full stack apps
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kmpraveendev@yahoo.com](mailto:kmpraveendev@yahoo.com)
-* 🧠  I'm learning Web Security, GO Lang.
+* 🧠  I'm learning Web Security and GO Lang.
 
 
 

@@ -4,12 +4,23 @@ Hi ! I am Praveen
 
 Web Developer and Designer
 --------------------------
+<h3>My Projects</h3>
 
-I am interested in building full stack apps
+Vanilla Javascript Portfolio website : <a style="margin: 10px;" href="https://praveenkm.vercel.app/" target="_blank">Pravee K M</a>
+
+Vanilla Javascript Animation using Canvas :  <a style="margin: 10px" href="https://praveenkm.vercel.app/" target="_blank">Tomato Rain Animation</a>
+
+Full Stack Project ( React + FireBase + Express ) : <a style="margin: 10px" href="https://pkm-real-estate-web-2d6ld1wmg-pkm777.vercel.app/" target="_blank">Real Estate Web App</a>
+
+--------------------------
+
+I build full stack apps and good user interfaces using React and other Javascript Libraries.
+
+--------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kmpraveendev@yahoo.com](mailto:kmpraveendev@yahoo.com)
-* 🧠  I'm learning Web Security and GO Lang.
+* 🧠  I'm learning Web Security and GO Lang in free time.
 
 
 

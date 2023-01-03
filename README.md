@@ -4,6 +4,12 @@ Hi ! I am Praveen K M
 
 Frontend Web Developer
 --------------------------
+
+
+I build full stack apps and good user interfaces using React and other Javascript Libraries.
+
+--------------------------
+
 <h3>My Projects</h3>
 
 Vanilla Javascript Portfolio website : <a style="margin: 10px;" href="https://praveenkm.vercel.app/" target="_blank">Pravee K M</a>
@@ -14,20 +20,21 @@ Full Stack Project ( React + FireBase + Express ) : <a style="margin: 10px" href
 
 --------------------------
 
-I build full stack apps and good user interfaces using React and other Javascript Libraries.
-
---------------------------
-
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kmpraveendev@yahoo.com](mailto:kmpraveendev@yahoo.com)
 * 🧠  I'm learning Web Security and GO Lang. in free time.
 
+--------------------------
 
 
 
 
 
-### Frontend  
+
+
+
+
+### Frontend Techs frequntly used
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  

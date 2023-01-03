@@ -8,7 +8,7 @@ Frontend Web Developer
 
 Vanilla Javascript Portfolio website : <a style="margin: 10px;" href="https://praveenkm.vercel.app/" target="_blank">Pravee K M</a>
 
-Vanilla Javascript Animation using Canvas :  <a style="margin: 10px" href="https://praveenkm.vercel.app/" target="_blank">Tomato Rain Animation</a>
+Vanilla Javascript Animation using Canvas :  <a style="margin: 10px" href="https://tomato-rain-canvas-anime.vercel.app/" target="_blank">Tomato Rain Animation</a>
 
 Full Stack Project ( React + FireBase + Express ) : <a style="margin: 10px" href="https://pkm-real-estate-web-2d6ld1wmg-pkm777.vercel.app/" target="_blank">Real Estate Web App</a>
 

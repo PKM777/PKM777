@@ -1,8 +1,8 @@
 
-Hi ! I am Praveen
+Hi ! I am Praveen K M
 ===================================================================================================================================
 
-Web Developer and Designer
+Frontend Web Developer
 --------------------------
 <h3>My Projects</h3>
 
@@ -20,7 +20,7 @@ I build full stack apps and good user interfaces using React and other Javascrip
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kmpraveendev@yahoo.com](mailto:kmpraveendev@yahoo.com)
-* 🧠  I'm learning Web Security and GO Lang in free time.
+* 🧠  I'm learning Web Security and GO Lang. in free time.
 
 
 

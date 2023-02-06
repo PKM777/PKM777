@@ -1,5 +1,5 @@
 
-Hi ! I am Praveen K M
+Hi ! I am Praveen K Mathapati
 ===================================================================================================================================
 
 Frontend Web Developer
@@ -25,7 +25,7 @@ Vanilla Javascript Animation using Canvas :  <a style="margin: 10px" href="https
 
 --------------------------
 * Skilled front-end developer with 1+ years of experience building and maintaining user-facing web applications. Proficient in HTML, CSS, and JavaScript, with a strong understanding of responsive design and cross-browser compatibility. Proven ability to translate design mockups into functional, visually appealing websites and web applications.
-* 
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kmpraveendev@gmail.com](mailto:kmpraveendev@gmail.com)
 --------------------------
